@@ -1,0 +1,138 @@
+body {
+    background-image: url('anime2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+
+<image src="Nikas.jpg">
+{   
+    display: block;
+    margin: auto;
+}
+<image src="MMM.jpg">
+{   
+    display: block;
+    margin: auto;
+}
+.image{
+    position: absolute;
+}
+#image2 {
+    left:1180px;
+    top: 10px;
+}
+.text {
+    position: absolute;
+}
+#text1 { 
+    left: 330px;
+    top: 10px;
+    color: #4169E1;
+    background-color: #2B2A2E;
+    
+}
+#text2 { 
+    left: 330px;
+    top: 280px;
+    color: #EE82EE;
+    background-color: #2E2A2D;
+}
+#text3 { 
+    left: ;
+    top: 334px;
+    color: #FF4500;
+    background-color: #2E2A2A;
+}
+#text4 { 
+    left: ;
+    top: 480px;
+    color: #FFFFFF;
+    background-color: #2A2A2E;
+}
+#text5 {
+    left: 330px;
+    top: 432px;
+    color: #F0E68C;
+    background-color: #2E2E2A;
+}
+#text6 {
+    left: ;
+    top: 630px;
+    color: #3CB371;
+    background-color: #2A2E2B;
+}
+#text7 {
+    left: 330px;
+    top: 660px;
+    color: #DC143C;
+    background-color: #2E2A2A;
+}
+#text7 {
+    left: 330px;
+    top: 660px;
+    color: #DC143C;
+    background-color: #2E2A2A;
+}
+#text8 {
+    left: ;
+    top: 820px;
+    color: #000000;
+    background-color: #D9D9D9;
+}
+#text9 {
+    left: 330px;
+    top: 770px;
+    color: #B0C4DE;
+    background-color: #2A2D2E;
+}
+#text10 {
+    left: 1180px;
+    top: 330px;
+    color: #670994;
+    background-color: #E7E7E7;
+}
+#text11 {
+    left: 1740px;
+    top: 10px;
+    color: #670994;
+    background-color: #E7E7E7;
+}
+#text12 {
+    left: 1740px;
+    top: 160px;
+    color: #FF0F0F;
+    background-color: #E7E7E7;
+}
+#text13 {
+    left: 1740px;
+    top: 352px;
+    color: #4169E1;
+    background-color: #E7E7E7;
+}
+#text14 {
+    left: 1180px;
+    top: 600px;
+    color: #FC9C0D;
+    background-color: #E7E7E7;
+}
+#text15 {
+    left: 1740px;
+    top: 542px;
+    color: #2F10EE;
+    background-color: #E7E7E7;
+}
+#text16 {
+    left: 1523px;
+    top: 600px;
+    color: #286C2F;
+    background-color: #E7E7E7;
+}
+#text17 {
+    left: 1530px;
+    top: 760px;
+    color: #6C1818;
+    background-color: #E7E7E7;
+}
